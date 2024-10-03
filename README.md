@@ -1,0 +1,1 @@
+Developed an e-commerce site using React and Bootstrap for responsive front-end design, integrated with a Spring Boot RESTful API for server-side logic, and managed data retrieval and updates via Axios.
